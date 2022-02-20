@@ -1,11 +1,9 @@
 ### Olá! Eu sou o Arthur👋
 
-<!--
-
 - 🔭 Cursando Análise e desenvolvimento de sistemas
 - 🌱 Estudando JavaScript, HTML e CSS
 - ⚡ Gosto de estudar sobre tecnologia e mercado financeiro
--->
+
 
 <div align="center">
   <a href="https://github.com/arthurffreitas">
